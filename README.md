@@ -13,6 +13,16 @@ Tu peux tester l'application en direct ici :
 
 ---
 
+## 📸 Aperçu de l'Interface
+
+Voici un aperçu visuel de l'application et de son fonctionnement :
+
+![Interface d'accueil et configuration](images/daily-1.png)
+
+![Génération des messages de motivation](images/dayli2.png)
+
+---
+
 ## 🎯 Vision du Projet
 
 L'objectif est d'allier les capacités des grands modèles de langage (LLM) à une expérience utilisateur simple et intuitive. En saisissant son état d'esprit actuel et ses défis immédiats, l'utilisateur reçoit un accompagnement sur mesure, éliminant les discours génériques pour offrir un boost de motivation ultra-personnalisé.
@@ -21,11 +31,11 @@ L'objectif est d'allier les capacités des grands modèles de langage (LLM) à u
 
 ## ✨ Fonctionnalités
 
-*   **Analyse de l'Humeur (*Current Mood*) :** Adapte dynamiquement le ton, l'empathie et l'approche de l'IA selon l'état d'esprit de l'utilisateur.
-*   **Ciblage des Objectifs (*Goal or Challenge*) :** Intègre les défis spécifiques ou les buts optionnels du jour pour formuler des conseils exploitables et pertinents.
-*   **Génération de Contenu IA :**
-    *   **Personalized Motivational Message :** Un message de coaching sur mesure pour structurer sa journée.
-    *   **Daily Affirmation :** Une phrase d'ancrage positive et percutante à s'approprier.
+* **Analyse de l'Humeur (*Current Mood*) :** Adapte dynamiquement le ton, l'empathie et l'approche de l'IA selon l'état d'esprit de l'utilisateur.
+* **Ciblage des Objectifs (*Goal or Challenge*) :** Intègre les défis spécifiques ou les buts optionnels du jour pour formuler des conseils exploitables et pertinents.
+* **Génération de Contenu IA :**
+    * **Personalized Motivational Message :** Un message de coaching sur mesure pour structurer sa journée.
+    * **Daily Affirmation :** Une phrase d'ancrage positive et percutante à s'approprier.
 
 ---
 
@@ -33,8 +43,8 @@ L'objectif est d'allier les capacités des grands modèles de langage (LLM) à u
 
 L'application est entièrement propulsée par l'écosystème **Amazon Web Services (AWS)** :
 
-*   **Plateforme :** [AWS PartyRock](https://partyrock.aws/) – Un espace d'expérimentation basé sur Amazon Bedrock pour concevoir des applications génératives complexes sans code.
-*   **Moteur d'IA :** Modèles de fondation (Foundation Models) optimisés via du prompt engineering avancé pour garantir des réponses engageantes, humaines et fluides.
+* **Plateforme :** [AWS PartyRock](https://partyrock.aws/) – Un espace d'expérimentation basé sur Amazon Bedrock pour concevoir des applications génératives complexes sans code.
+* **Moteur d'IA :** Modèles de fondation (Foundation Models) optimisés via du prompt engineering avancé pour garantir des réponses engageantes, humaines et fluides.
 
 ---
 
