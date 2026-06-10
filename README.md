@@ -2,13 +2,22 @@
 
 **Daily Motivation Coach** est une application d'intelligence artificielle interactive conçue pour aider les utilisateurs à démarrer leur journée avec intention, clarté et résilience. 
 
-Ce projet a été développé en tant qu'application pratique dans le cadre de mon diplôme de l'**AWS AI Practitioner Challenge via Udacity**.
+Ce projet a été développé en tant qu'application pratique et concrète dans le cadre de mon diplôme de l'**AWS AI Practitioner Challenge via Udacity**.
+
+---
+
+## 🔗 Lien de l'Application
+
+Tu peux tester l'application en direct ici :
+👉 **[Accéder à Daily Motivation Coach sur AWS PartyRock](INSERE_TON_LIEN_PARTYROCK_ICI)**
 
 ---
 
 ## 🎯 Vision du Projet
 
 L'objectif est d'allier les capacités des grands modèles de langage (LLM) à une expérience utilisateur simple et intuitive. En saisissant son état d'esprit actuel et ses défis immédiats, l'utilisateur reçoit un accompagnement sur mesure, éliminant les discours génériques pour offrir un boost de motivation ultra-personnalisé.
+
+---
 
 ## ✨ Fonctionnalités
 
@@ -25,7 +34,7 @@ L'objectif est d'allier les capacités des grands modèles de langage (LLM) à u
 L'application est entièrement propulsée par l'écosystème **Amazon Web Services (AWS)** :
 
 *   **Plateforme :** [AWS PartyRock](https://partyrock.aws/) – Un espace d'expérimentation basé sur Amazon Bedrock pour concevoir des applications génératives complexes sans code.
-*   **Moteur d'IA :** Modèles de fondation (Foundation Models) optimisés via du prompt engineering avancé pour garantir des réponses engageantes, humaines et dénuées de monotonie mécanique.
+*   **Moteur d'IA :** Modèles de fondation (Foundation Models) optimisés via du prompt engineering avancé pour garantir des réponses engageantes, humaines et fluides.
 
 ---
 
